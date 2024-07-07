@@ -9,5 +9,5 @@ The Movie Recommendation System allows users to manage a list of movies, includi
 ## Your Task
 
 Complete the implementation of the `MovieLibrary` class by:
-1. Implementing the `rate_movie` method.
-2. Implementing the `get_top_rated_movies` method.
+1. Implementing the `rate_movie` method such that if Movie ID exists, the rating is registered.
+2. Implementing the `get_top_rated_movies` method such that the "n" top rated movies are returned.
