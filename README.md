@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-This repository contains a partially implemented Movie Recommendation System. Your task is to complete the implementation as part of the assessment.
+This repository contains a incomplete functions for Movie Recommendation System code, for Personality Embeddings study. Your task is to complete the implement the functions as part of the assessment.
 
 ## Project Description
 
