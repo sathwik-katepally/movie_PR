@@ -15,5 +15,6 @@ Complete the implementation of the `MovieLibrary` class by:
 ## Instructions
 
 1. Fork the repository.
-2. Make the changes.
-3. Create a pull request.
+2. Create a new branch.
+3. Make the changes.
+4. Create a pull request.
