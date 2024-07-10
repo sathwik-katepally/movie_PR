@@ -12,7 +12,7 @@ Complete the implementation of the `MovieLibrary` class by:
 1. Implementing the `rate_movie` method such that if Movie ID exists, the rating is registered.
 2. Implementing the `get_top_rated_movies` method such that the "n" top rated movies are returned.
 
-## Instructions
+### Instructions
 
 1. Fork the repository.
 2. Make the changes.
